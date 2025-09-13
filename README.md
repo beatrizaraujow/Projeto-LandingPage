@@ -1,7 +1,5 @@
 # SeuBoné Personalizados - Landing Page
 
-![SeuBoné Personalizados](images/kit_executivo.jpg)
-
 ## Sobre o Projeto
 
 Landing page responsiva desenvolvida para a empresa fictícia "SeuBoné Personalizados", especializada em brindes corporativos personalizados. O objetivo da página é gerar leads B2B, apresentando os produtos e serviços da empresa de forma atrativa e profissional.
